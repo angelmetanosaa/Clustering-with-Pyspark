@@ -12,11 +12,13 @@ adalah:
 - Konsumsi makanan di antara waktu makan (CAEC)
 - Konsumsi air setiap hari (CH20)
 - Konsumsi alkohol (CALC).
+
 Sedangkan atribut yang berhubungan dengan fisik kondisinya adalah:
 - Pemantauan konsumsi kalori (SCC)
 - Frekuensi aktivitas fisik (FAF)
 - Waktu penggunaan perangkat teknologi (TUE)
 - Transportasi yang digunakan (MTRANS)
+
 Variabel lain yang diperoleh lainnya adalah:
 - Jenis Kelamin
 - Usia
